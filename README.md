@@ -21,8 +21,26 @@ Este proyecto esta construdo en el lenguaje kotlin de tal manera que cumpla con 
 
 ## Características
 
-Enumera las principales características del proyecto. Puedes agregar una lista o explicar cada característica individualmente.
+* Funcionalidad amplia
+* Cards Alusivas al tema
+* Paleta de colores del sena
+* Login sin coneccion a la nube 
+* Dashboard 
+* Notificaciones el diferentes puntos del proyecto
+* Splash con animacion y logo del Sena
 
+
+
+### Funcionalidad Amplia 
+
+En este casi el proyecto Incorpora una funcinalidad tipo carrito de compras con sus respectivas categorias y separacion de porfuctos por las mismas, tambientenemos un login y un splash antes del mismo para hacerlo un poco mas dinamico 
+
+
+### Cards Alusuvas al tema 
+
+El proyecto tiene diferentes tipos de cards ya sea para los productos y otras pestañas qeu tiene donde el uso de las cards es permitidop y simple 
+
+### Paleta de colores del sena 
 ## Requisitos
 
 Enumera los requisitos necesarios para poder utilizar o contribuir al proyecto. Pueden ser requisitos de software, dependencias, o cualquier otro elemento necesario para su funcionamiento.
