@@ -13,7 +13,6 @@ proyecto final de kotlin, en el encontraremos el proyecto final elaborado en el 
 - [Uso](#uso)
 - [Contribución](#contribución)
 - [Créditos](#créditos)
-- [Licencia](#licencia)
 
 ## Descripción
 
@@ -41,6 +40,27 @@ En este casi el proyecto Incorpora una funcinalidad tipo carrito de compras con 
 El proyecto tiene diferentes tipos de cards ya sea para los productos y otras pestañas qeu tiene donde el uso de las cards es permitidop y simple 
 
 ### Paleta de colores del sena 
+
+En este caso usamos la spaelta de colores del sena que se encuentra en la pagina oficial 
+
+### Login 
+
+En este proyecto usamos un  login con su crear y loguear sin funcionalida con la nube la coneccion se plantea hacerse en firebase para almacenar de manera mas rapida.
+
+
+### Dashboard 
+
+
+
+
+### Notificaciiones 
+
+
+
+### Splash 
+
+
+
 ## Requisitos
 
 Enumera los requisitos necesarios para poder utilizar o contribuir al proyecto. Pueden ser requisitos de software, dependencias, o cualquier otro elemento necesario para su funcionamiento.
@@ -60,10 +80,3 @@ Si deseas recibir contribuciones a tu proyecto, indica cómo los demás pueden a
 ## Créditos
 
 Da reconocimiento a las personas o proyectos en los que te has basado para crear tu proyecto. Incluye enlaces a sus repositorios o páginas relevantes.
-
-## Licencia
-
-Indica bajo qué licencia se distribuye tu proyecto. Si no estás seguro de qué licencia usar, consulta [choosealicense.com](https://choosealicense.com/) para obtener más información.
-
----
-Nota: Puedes personalizar esta plantilla según las necesidades específicas de tu proyecto. Agrega secciones adicionales o modifica las existentes para hacer que el README sea claro y completo.
