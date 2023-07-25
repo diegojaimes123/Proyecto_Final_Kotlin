@@ -55,29 +55,30 @@ Este proyecto tiene un dashboard de bastante funcionalidad dadas como la separac
 
 ### Notificaciiones 
 
-Tenemos cuantro funciones de notificaciones en este proyecto 
+Tenemos cuantro funciones de notificaciones en este proyecto una normal y corriente otra con un texto un poco mas largo, una con imagen y la ultima pero no menos importante la de temporizador o funcion monótona 
 
 
 ### Splash 
 
+Tenemos un splash con una imagen y el logo del sena ademas de un video de fondo como requisito 
 
 
 ## Requisitos
 
-Enumera los requisitos necesarios para poder utilizar o contribuir al proyecto. Pueden ser requisitos de software, dependencias, o cualquier otro elemento necesario para su funcionamiento.
+Se utilizaron algunas dependencias tales como las del la api fe Google maps para su respectiva funcionalidad ya que sin ellas seria imposible hacerlo, también se usaron mas dependencias de la navegación avanzada 
 
 ## Instalación
 
-Explica cómo instalar y configurar el proyecto. Proporciona instrucciones paso a paso para que los usuarios puedan poner en funcionamiento tu proyecto en su entorno.
+Este proyecto fue creado desde cero y las dependencias estan adjuntadas al mkmso uso de jetpack compose al 100 % y femas componentes del mismo 
 
 ## Uso
 
-Proporciona ejemplos e instrucciones sobre cómo utilizar el proyecto. Incluye ejemplos de código si es necesario, para que los usuarios puedan comprender mejor su uso.
+Se platea una gran funcionalidad y cumple con la maisma es muy dinamico y su uso nl se vera nada dificil en el sentido de entenderlo y usarlo ya que con un solo botón tenemos ya todo predeterminado para los udos6.
 
 ## Contribución
 
-Si deseas recibir contribuciones a tu proyecto, indica cómo los demás pueden ayudar. Puede incluir información sobre cómo reportar problemas, proponer mejoras o enviar solicitudes de incorporación de cambios (pull requests).
+Gracias a la ayuda del profe Jorge y de algunas herramientas de investigación tales como Google o un Ia se pudo sacar adelante el proyecto ademas de las guías suministradas por el mismo instructor de la ficha
 
 ## Créditos
 
-Da reconocimiento a las personas o proyectos en los que te has basado para crear tu proyecto. Incluye enlaces a sus repositorios o páginas relevantes.
+Gracias a el Profe Jorge por su ayuda y compromiso con nuestro aprendizaje 
