@@ -50,11 +50,12 @@ En este proyecto usamos un  login con su crear y loguear sin funcionalida con la
 
 ### Dashboard 
 
-
+Este proyecto tiene un dashboard de bastante funcionalidad dadas como la separacion de categorias y cards separadas oor las mismas en este caso es frutas verduras, carnes, flores y demás, además de una gran variedad dé pestañas en el mismo dashboard.
 
 
 ### Notificaciiones 
 
+Tenemos cuantro funciones de notificaciones en este proyecto 
 
 
 ### Splash 
