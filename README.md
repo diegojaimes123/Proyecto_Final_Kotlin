@@ -71,6 +71,37 @@ Se utilizaron algunas dependencias tales como las del la api fe Google maps para
 
 Este proyecto fue creado desde cero y las dependencias estan adjuntadas al mkmso uso de jetpack compose al 100 % y femas componentes del mismo 
 
+    implementation 'com.google.accompanist:accompanist-insets:0.23.1'
+    implementation 'com.google.android.exoplayer:exoplayer-core:2.19.0'
+    implementation 'com.google.android.exoplayer:exoplayer-ui:2.19.0'
+    implementation 'com.google.android.exoplayer:exoplayer:2.19.0'
+
+    implementation 'androidx.navigation:navigation-compose:2.7.0-beta01'
+    implementation 'androidx.compose.material:material:1.4.3'
+    implementation 'androidx.core:core-ktx:1.10.1'
+    implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.6.1'
+    implementation 'androidx.activity:activity-compose:1.7.2'
+    implementation platform('androidx.compose:compose-bom:2022.10.00')
+    implementation 'androidx.compose.ui:ui'
+    implementation 'androidx.compose.ui:ui-graphics'
+    implementation 'androidx.compose.ui:ui-tooling-preview'
+    implementation 'androidx.compose.material3:material3'
+    implementation 'androidx.navigation:navigation-runtime-ktx:2.6.0'
+    implementation 'androidx.compose.material:material-icons-extended:1.4.3'
+//    implementaciones de Maps
+    implementation 'com.google.maps.android:maps-compose:2.11.4'
+    implementation 'com.google.android.gms:play-services-maps:18.1.0'
+    implementation 'com.google.maps.android:maps-compose-utils:2.11.4'
+    implementation 'com.google.maps.android:maps-compose-widgets:2.11.4'
+//    fin
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+    androidTestImplementation platform('androidx.compose:compose-bom:2022.10.00')
+    androidTestImplementation 'androidx.compose.ui:ui-test-junit4'
+    debugImplementation 'androidx.compose.ui:ui-tooling'
+    debugImplementation 'androidx.compose.ui:ui-test-manifest'
+
 ## Uso
 
 Se platea una gran funcionalidad y cumple con la maisma es muy dinamico y su uso nl se vera nada dificil en el sentido de entenderlo y usarlo ya que con un solo botón tenemos ya todo predeterminado para los udos6.
